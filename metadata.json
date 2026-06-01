@@ -1,0 +1,8 @@
+{
+  "name": "AeroSphere",
+  "description": "A premium, futuristic weather dashboard with a luxurious anime-inspired aesthetic, modern glassmorphism UI, interactive 3D elements, anime weather mascots, and advanced charts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
